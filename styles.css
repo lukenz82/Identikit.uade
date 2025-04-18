@@ -1,0 +1,45 @@
+body{
+    
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+}
+p{
+    text-align: center;
+}
+.subMe {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+li  {
+    display: inline; 
+    margin-right: 15px;
+    font-size: 15px;
+    color: aliceblue;
+    }
+nav {
+    text-align: center;
+    background-color: black;
+    height: 60px;
+    line-height: 60px;
+    
+    }
+nav img{
+    float: left; 
+    height: 50px;
+    width: 50px; 
+    margin-top: 5px;
+    }
+a   {
+    text-decoration: none;
+    color: white;
+    }
+ol{
+    margin-top: 0;
+    padding-top: 0;
+}
+h1{
+    color: black;
+    text-align: center;
+}
